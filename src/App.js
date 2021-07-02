@@ -2,7 +2,7 @@
 import { BrowserRouter,Route,Switch } from "react-router-dom";
 import Homepage from "./Pages/Homepage";
 import Projects from "./Pages/Projects";
-import background from "./image1.jpg";
+import background from "./Images/image1.jpg";
 
 const App = ()  => {
   return (
