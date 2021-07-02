@@ -1,7 +1,8 @@
 const Projects = () => {
     return (
-        <div>
-               <h1>List of Projects</h1>
+        
+         <div className="overlay">
+             <h1>List of Projects</h1>
         </div>
     )
 }
